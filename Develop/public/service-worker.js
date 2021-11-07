@@ -27,7 +27,7 @@ self.addEventListener('install', function (e) {
     })
   )
 })
-/*
+/
 // Delete outdated caches
 self.addEventListener('activate', function(e) {
   e.waitUntil(
@@ -51,7 +51,7 @@ self.addEventListener('activate', function(e) {
     })
   );
 });
-*/
+
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
   console.log('fetch request : ' + e.request.url)
