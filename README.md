@@ -34,7 +34,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 The following image shows the web application's appearance and functionality:
 
-![Challenge Demo](./Develop/public/icon/demo-01.png)
+![Challenge Demo](./Develop/public/icons/demo-01.png)
 
 
 ## Getting Started
