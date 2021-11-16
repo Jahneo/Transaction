@@ -93,8 +93,8 @@ Finally, the budget tracker has a server and uses MongoDB as its database, so yo
 ![Offline Demo](./Develop/public/icons/offline.png)
 
 # Deployment
-![Live](https://jahneo-budget-tracking.herokuapp.com/)
+(https://jahneo-budget-tracking.herokuapp.com/)
 
 # GitHub
-!Github](https://github.com/Jahneo/Transaction)
+![Github](https://github.com/Jahneo/Transaction)
 
